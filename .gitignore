@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.log
+*.pyc
+brain_17m.pt
+brain_small.pt
+brain.pt
+.train_small.log
+Steps.txt
